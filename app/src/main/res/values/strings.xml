@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BMI計算機</string>
+    <string name="tv_age">年齢</string>
+    <string name="tv_age_back">歳</string>
+    <string name="tv_high">身長</string>
+    <string name="tv_high_back">cm</string>
+    <string name="tv_weight">体重</string>
+    <string name="tv_weight_back">kg</string>
+    <string name="bt_cal">計算</string>
+    <string name="bt_clear">クリア</string>
+    <string name="dialog_title">警告</string>
+    <string name="dialog_btn_firm">確認</string>
+    <string name="dialog_ok_toast">適正年齢のBMIを求めてね</string>
+</resources>
